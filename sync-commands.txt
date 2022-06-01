@@ -1,0 +1,4 @@
+git fetch -> fetches state of remote repo (upates origin/main)
+
+After fetch is done
+pull the repo on all branches to get everybranch synced
